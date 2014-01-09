@@ -8,9 +8,9 @@ I [published](http://imwill.com/18-favorite-software-engineering-tech-blogs/) a 
 ## Contribution
 Right now this collection is still small and incomplete. Please, feel free to add your own suggestions to it.
 
-* Option A: Fork it, add your favorite blog or own company blog and send a Pull Request.
-* Option B: Just create a new issue and add a URL.
+* Option A: [Fork it](https://github.com/imwill/software-engineering-blogs/fork), add your favorite blog or own company blog and send a Pull Request.
+* Option B: Just [create a new issue](https://github.com/imwill/software-engineering-blogs/issues/new) and add a URL.
 
 ## The Collection
 
-You can find the collection [here](/software-engineering-blogs.md).
+[Here](/software-engineering-blogs.md) you can find the collection.
