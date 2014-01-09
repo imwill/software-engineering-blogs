@@ -2,6 +2,8 @@
 
 ##### Airbnb [Engineering](http://nerds.airbnb.com/)
 
+##### Artsy [Engineering](http://artsy.github.io/)
+
 ##### bit.ly [Engineering Blog](http://word.bitly.com/)
 
 ##### Dropbox [Tech Blog](http://tech.dropbox.com/)
@@ -13,6 +15,8 @@
 ##### flickr [code](http://code.flickr.com/blog/)
 
 ##### Foursquare [Engineering](http://engineering.foursquare.com/)
+
+##### GitHub [Blog: Engineering](https://github.com/blog/category/engineering)
 
 ##### Google [Google Engineeering Tools](http://google-engtools.blogspot.de/)
 
