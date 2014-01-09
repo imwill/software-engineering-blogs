@@ -1,57 +1,37 @@
-37signals
-[](http://37signals.com/svn/programming)
-[](http://37signals.com/svn/sysadmin)
+##### 37signals [SVN Programming](http://37signals.com/svn/programming), [SVN Sysadmin](http://37signals.com/svn/sysadmin)
 
-Airbnb
-[](http://nerds.airbnb.com/)
+##### Airbnb [Engineering](http://nerds.airbnb.com/)
 
-bit.ly
-[](http://word.bitly.com/)
+##### bit.ly [Engineering Blog](http://word.bitly.com/)
 
-Dropbox
-[](http://tech.dropbox.com/)
+##### Dropbox [Tech Blog](http://tech.dropbox.com/)
 
-Etsy
-[](http://codeascraft.etsy.com/)
+##### Etsy [Code as Craft](http://codeascraft.etsy.com/)
 
-Facebook
-[](http://www.facebook.com/Engineering?sk=notes)
+##### Facebook [Engineering](http://www.facebook.com/Engineering?sk=notes)
 
-flickr
-[](http://code.flickr.com/blog/)
+##### flickr [code](http://code.flickr.com/blog/)
 
-Foursquare
-[](http://engineering.foursquare.com/)
+##### Foursquare [Engineering](http://engineering.foursquare.com/)
 
-Instagram
-[](http://instagram-engineering.tumblr.com/)
+##### Instagram [Engineering](http://instagram-engineering.tumblr.com/)
 
-Klout
-[](http://corp.klout.com/blog/category/engineering/)
+##### Klout [The official Klout Blog](http://corp.klout.com/blog/category/engineering/)
 
-LinkedIn
-[](http://engineering.linkedin.com/blog)
+##### LinkedIn [Engineering](http://engineering.linkedin.com/blog)
 
-Netflix
-[](http://techblog.netflix.com/)
+##### Netflix [The Netflix Tech Blog](http://techblog.netflix.com/)
 
-Pinterest
-[](http://engineering.pinterest.com/)
+##### Pinterest [making Pinterest](http://engineering.pinterest.com/)
 
-Socialcast
-[](http://blog.socialcast.com/engineering/)
+##### Socialcast [Engineering Archives](http://blog.socialcast.com/engineering/)
 
-Twilio
-[](http://www.twilio.com/engineering)
+##### Twilio [Engineering Blog](http://www.twilio.com/engineering)
 
-Twitter
-[](http://engineering.twitter.com/)
+##### Twitter [Engineering](http://engineering.twitter.com/)
 
-XING
-[](http://devblog.xing.com/)
+##### XING [Developer](http://devblog.xing.com/)
 
-Yammer
-[](http://eng.yammer.com/blog/)
+##### Yammer [Engineering](http://eng.yammer.com/blog/)
 
-Yelp
-[](http://engineeringblog.yelp.com/)
+##### Yelp [Engineering Blog "We love code"](http://engineeringblog.yelp.com/)
