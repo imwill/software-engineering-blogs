@@ -8,6 +8,8 @@
 
 ##### Dropbox [Tech Blog](http://tech.dropbox.com/)
 
+##### eBay [Tech Blog](http://www.ebaytechblog.com/)
+
 ##### Etsy [Code as Craft](http://codeascraft.etsy.com/)
 
 ##### Facebook [Engineering](http://www.facebook.com/Engineering?sk=notes)
