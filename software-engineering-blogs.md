@@ -30,15 +30,35 @@
 
 ##### Netflix [The Netflix Tech Blog](http://techblog.netflix.com/)
 
+##### NPR [Visuals](http://blog.apps.npr.org/)
+
+##### Paperless Post [Dev Blog](http://dev.paperlesspost.com/)
+
 ##### Pinterest [making Pinterest](http://engineering.pinterest.com/)
+
+##### Prismatc [Blog](http://blog.getprismatic.com/blog/)
+
+##### Slideshare [Engineering Blogs](http://engineering.slideshare.net/)
+
+##### Socialcast [Engineering Archives](http://blog.socialcast.com/engineering/)
+
+##### SoundCloud [Backstage](http://backstage.soundcloud.com/)
 
 ##### Square [Corner](http://corner.squareup.com/)
 
-##### Socialcast [Engineering Archives](http://blog.socialcast.com/engineering/)
+##### Spotify [Labs](http://labs.spotify.com/)
+
+##### Tumblr [Engineering](http://engineering.tumblr.com/)
 
 ##### Twilio [Engineering Blog](http://www.twilio.com/engineering)
 
 ##### Twitter [Engineering](http://engineering.twitter.com/)
+
+##### Viget [Extend - A code&technology blog](http://viget.com/extend)
+
+##### Wayfair [Engineering](http://engineering.wayfair.com/)
+
+##### Wealthfront [Engineering](http://eng.wealthfront.com/)
 
 ##### XING [Developer](http://devblog.xing.com/)
 
