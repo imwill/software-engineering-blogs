@@ -6,6 +6,8 @@
 
 ##### bit.ly [Engineering Blog](http://word.bitly.com/)
 
+##### Cloudera [Developer Blog](http://blog.cloudera.com/blog/)
+
 ##### Dropbox [Tech Blog](http://tech.dropbox.com/)
 
 ##### eBay [Tech Blog](http://www.ebaytechblog.com/)
@@ -47,6 +49,8 @@
 ##### Pinterest [making Pinterest](http://engineering.pinterest.com/)
 
 ##### Prismatc [Blog](http://blog.getprismatic.com/blog/)
+
+##### Quora [Engineering](http://engineering.quora.com/)
 
 ##### Slideshare [Engineering Blogs](http://engineering.slideshare.net/)
 
