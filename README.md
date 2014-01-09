@@ -1,4 +1,4 @@
-# Collection of Corporate Software Engineering & Tech Blogs
+# A Collection of Corporate Software Engineering & Tech Blogs
 
 ## Introduction
 This is a collection of Corporate Software Engineering &amp; Tech blogs. It features blogs of young startups, software development companies and also well-established companies who write about software engineering & technology.
