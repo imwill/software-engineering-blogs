@@ -16,6 +16,8 @@
 
 ##### Instagram [Engineering](http://instagram-engineering.tumblr.com/)
 
+##### Kickstarter [Backing&Hacking](http://www.kickstarter.com/backing-and-hacking)
+
 ##### Klout [The official Klout Blog](http://corp.klout.com/blog/category/engineering/)
 
 ##### LinkedIn [Engineering](http://engineering.linkedin.com/blog)
