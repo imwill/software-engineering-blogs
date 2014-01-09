@@ -38,6 +38,8 @@
 
 ##### Paperless Post [Dev Blog](http://dev.paperlesspost.com/)
 
+##### PayPal [Engineering](https://www.paypal-engineering.com/)
+
 ##### Pinterest [making Pinterest](http://engineering.pinterest.com/)
 
 ##### Prismatc [Blog](http://blog.getprismatic.com/blog/)
