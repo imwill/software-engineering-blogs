@@ -6,5 +6,11 @@ This is a [collection of Corporate Software Engineering &amp; Tech blogs](/softw
 I [published](http://imwill.com/18-favorite-software-engineering-tech-blogs/) a collection of my favorite blogs already more than 1.5 years ago. Now I got inspired by the [List of Free Programming Books](https://github.com/vhf/free-programming-books) and decided to create this public repository.
 
 ## Contribution
-Option A: Fork it, add your favorite blog or own company blog and send a Pull Request.
-Option B: Just create a new issue and add a URL.
+Right now this collection is still small and incomplete. Please, feel free to add your own suggestions to it.
+
+* Option A: Fork it, add your favorite blog or own company blog and send a Pull Request.
+* Option B: Just create a new issue and add a URL.
+
+## The Collection
+
+You can find the collection [here](/software-engineering-blogs.md).
