@@ -36,6 +36,8 @@
 
 ##### NPR [Visuals](http://blog.apps.npr.org/)
 
+##### Openshift [Blogs](https://www.openshift.com/blogs)
+
 ##### Paperless Post [Dev Blog](http://dev.paperlesspost.com/)
 
 ##### PayPal [Engineering](https://www.paypal-engineering.com/)
