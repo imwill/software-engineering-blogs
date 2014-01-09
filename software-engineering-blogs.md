@@ -14,11 +14,17 @@
 
 ##### Foursquare [Engineering](http://engineering.foursquare.com/)
 
+##### Google [Google Engineeering Tools](http://google-engtools.blogspot.de/)
+
+#### IMVU [Engineering Blog](http://engineering.imvu.com/)
+
 ##### Instagram [Engineering](http://instagram-engineering.tumblr.com/)
 
 ##### Kickstarter [Backing&Hacking](http://www.kickstarter.com/backing-and-hacking)
 
 ##### Klout [The official Klout Blog](http://corp.klout.com/blog/category/engineering/)
+
+##### Last.fm [the Blog](http://blog.last.fm/?c=Code)
 
 ##### LinkedIn [Engineering](http://engineering.linkedin.com/blog)
 
