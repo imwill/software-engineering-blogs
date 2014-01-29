@@ -54,6 +54,8 @@
 
 ##### Slideshare [Engineering Blogs](http://engineering.slideshare.net/)
 
+##### Small Improvements [Tech Blog](http://tech.small-improvements.com/)
+
 ##### Socialcast [Engineering Archives](http://blog.socialcast.com/engineering/)
 
 ##### SoundCloud [Backstage](http://backstage.soundcloud.com/)
